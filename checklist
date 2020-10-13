@@ -1,0 +1,4 @@
+- Creare template minimale con configurazione minimale
+- Script che carica template su repo github (creandola)
+- Script che abilita github pages per la repo
+- Script che al cambiamento della configurazione commita la modifica sul

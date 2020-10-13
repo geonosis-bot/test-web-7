@@ -1,0 +1,21 @@
+{
+  "name": "prototipo_siti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@octokit/auth": "^2.0.0",
+    "@octokit/auth-basic": "^1.4.2",
+    "@octokit/rest": "^17.2.1",
+    "dotenv": "^8.2.0",
+    "nodegit": "^0.26.5",
+    "shelljs": "^0.8.3",
+    "simple-git": "^1.132.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
